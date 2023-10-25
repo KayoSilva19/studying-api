@@ -1,0 +1,17 @@
+{
+  "name": "studying-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KayoSilva19/studying-api.git",
+  "author": "Kayo Silva <Kayohenriquesilva19@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
